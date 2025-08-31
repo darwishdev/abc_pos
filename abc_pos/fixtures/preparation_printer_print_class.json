@@ -2,18 +2,18 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-28 12:44:07.390687",
-  "name": "4bpike32cv",
+  "modified": "2025-08-29 16:15:26.779341",
+  "name": "3qjeabi7rh",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
-  "print_class": "Hard Bar"
+  "print_class": "Soft Bar"
  },
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-28 12:44:07.408959",
-  "name": "4bqknm549u",
+  "modified": "2025-08-29 16:15:26.793671",
+  "name": "3qj2tajq0u",
   "parent": "M - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
@@ -22,19 +22,19 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-28 12:44:07.391071",
-  "name": "4bppt3oagd",
+  "modified": "2025-08-29 16:15:26.780299",
+  "name": "3qjoh8lhco",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
-  "print_class": "Shisha"
+  "print_class": "Hard Bar"
  },
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-28 12:44:07.391453",
-  "name": "4bpfka3par",
-  "parent": "B - Printer",
+  "modified": "2025-08-29 16:15:26.793936",
+  "name": "3qj3vup967",
+  "parent": "M - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
   "print_class": "Soft Bar"
@@ -42,8 +42,8 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-28 12:44:07.391818",
-  "name": "4bpkps5jta",
+  "modified": "2025-08-29 16:15:26.780574",
+  "name": "3qjbpmagem",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
@@ -52,28 +52,8 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-29 04:35:49.227010",
-  "name": "i048scghdt",
-  "parent": "B - Printer",
-  "parentfield": "print_classes",
-  "parenttype": "Preparation Printer",
-  "print_class": "Hard Bar"
- },
- {
-  "docstatus": 0,
-  "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-29 04:35:49.238209",
-  "name": "i04r5o59fd",
-  "parent": "M - Printer",
-  "parentfield": "print_classes",
-  "parenttype": "Preparation Printer",
-  "print_class": "Soft Bar"
- },
- {
-  "docstatus": 0,
-  "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-29 04:35:49.227201",
-  "name": "i048spki5n",
+  "modified": "2025-08-29 16:15:26.781898",
+  "name": "3qjvruoo4g",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
@@ -82,8 +62,28 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-29 04:35:49.227388",
-  "name": "i04rbhierp",
+  "modified": "2025-08-29 16:15:26.782150",
+  "name": "3qj08o1a4e",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Hard Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 16:15:26.782396",
+  "name": "3qjlhkth4e",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Shisha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 16:15:26.782643",
+  "name": "3qjcfgft4h",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",
@@ -92,8 +92,8 @@
  {
   "docstatus": 0,
   "doctype": "Preparation Printer Print Class",
-  "modified": "2025-08-29 04:35:49.227565",
-  "name": "i04s5dgj88",
+  "modified": "2025-08-29 16:15:26.782881",
+  "name": "3qj95ovcj6",
   "parent": "B - Printer",
   "parentfield": "print_classes",
   "parenttype": "Preparation Printer",

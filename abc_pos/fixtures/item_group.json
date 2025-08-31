@@ -4,38 +4,6 @@
   "doctype": "Item Group",
   "image": null,
   "is_group": 1,
-  "item_group_defaults": [
-   {
-    "buying_cost_center": null,
-    "company": "Concha Hotel",
-    "default_discount_account": null,
-    "default_price_list": null,
-    "default_provisional_account": null,
-    "default_supplier": null,
-    "default_warehouse": "Stores - CH",
-    "deferred_expense_account": null,
-    "deferred_revenue_account": null,
-    "expense_account": null,
-    "income_account": "4110 - Sales - CH",
-    "parent": "Rooms",
-    "parentfield": "item_group_defaults",
-    "parenttype": "Item Group",
-    "selling_cost_center": "Main - CH"
-   }
-  ],
-  "item_group_name": "Rooms",
-  "modified": "2025-08-29 02:37:08.596751",
-  "name": "Rooms",
-  "old_parent": "All Item Groups",
-  "parent_item_group": "All Item Groups",
-  "print_class": null,
-  "taxes": []
- },
- {
-  "docstatus": 0,
-  "doctype": "Item Group",
-  "image": null,
-  "is_group": 1,
   "item_group_defaults": [],
   "item_group_name": "All Item Groups",
   "modified": "2025-08-28 10:15:21.412458",
@@ -874,6 +842,38 @@
   "name": "HOT DRINKS",
   "old_parent": "Beverage",
   "parent_item_group": "Beverage",
+  "print_class": null,
+  "taxes": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Item Group",
+  "image": null,
+  "is_group": 1,
+  "item_group_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Concha Hotel",
+    "default_discount_account": null,
+    "default_price_list": null,
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Stores - CH",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": "4110 - Sales - CH",
+    "parent": "Rooms",
+    "parentfield": "item_group_defaults",
+    "parenttype": "Item Group",
+    "selling_cost_center": "Main - CH"
+   }
+  ],
+  "item_group_name": "Rooms",
+  "modified": "2025-08-29 02:37:08.596751",
+  "name": "Rooms",
+  "old_parent": "All Item Groups",
+  "parent_item_group": "All Item Groups",
   "print_class": null,
   "taxes": []
  }
