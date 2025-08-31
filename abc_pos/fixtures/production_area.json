@@ -1,0 +1,287 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Production Area",
+  "modified": "2025-08-24 12:17:47.784932",
+  "name": "M - Bar",
+  "print_classes": [
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "M - Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   }
+  ],
+  "restaurant": "Main Restaurant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Production Area",
+  "modified": "2025-08-24 12:18:30.803168",
+  "name": "B - Food",
+  "print_classes": [
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Food",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   }
+  ],
+  "restaurant": "Beach Restaurant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Production Area",
+  "modified": "2025-08-24 12:18:20.937734",
+  "name": "B - Shisha",
+  "print_classes": [
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Shisha",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   }
+  ],
+  "restaurant": "Beach Restaurant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Production Area",
+  "modified": "2025-08-24 12:18:12.384974",
+  "name": "B - Hard Bar",
+  "print_classes": [
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Hard Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   }
+  ],
+  "restaurant": "Beach Restaurant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Production Area",
+  "modified": "2025-08-24 12:17:56.970821",
+  "name": "B - Soft Bar",
+  "print_classes": [
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   },
+   {
+    "parent": "B - Soft Bar",
+    "parentfield": "print_classes",
+    "parenttype": "Production Area",
+    "preparation_printer": "B - Printer"
+   }
+  ],
+  "restaurant": "Beach Restaurant"
+ }
+]

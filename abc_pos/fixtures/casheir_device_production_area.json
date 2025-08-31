@@ -1,0 +1,82 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.627318",
+  "name": "u5u55hfnpv",
+  "parent": "M - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "M - Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.643072",
+  "name": "u5uo9n06id",
+  "parent": "B - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Food"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.628629",
+  "name": "u5u9tn8r89",
+  "parent": "M - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Hard Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.643352",
+  "name": "u5u0gjl40l",
+  "parent": "B - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Shisha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.628904",
+  "name": "u5uif6s4ca",
+  "parent": "M - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Shisha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.643618",
+  "name": "u5us91pim0",
+  "parent": "B - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Soft Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.629171",
+  "name": "u5un3n7872",
+  "parent": "M - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Food"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Casheir Device Production Area",
+  "modified": "2025-08-29 16:05:48.643885",
+  "name": "u5ual2p3as",
+  "parent": "B - Cashier - 1",
+  "parentfield": "production_areas",
+  "parenttype": "Cashier Device",
+  "production_area": "B - Hard Bar"
+ }
+]

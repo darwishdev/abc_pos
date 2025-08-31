@@ -1,0 +1,102 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-28 12:44:07.390687",
+  "name": "4bpike32cv",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Hard Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-28 12:44:07.408959",
+  "name": "4bqknm549u",
+  "parent": "M - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Soft Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-28 12:44:07.391071",
+  "name": "4bppt3oagd",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Shisha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-28 12:44:07.391453",
+  "name": "4bpfka3par",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Soft Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-28 12:44:07.391818",
+  "name": "4bpkps5jta",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Food"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 04:35:49.227010",
+  "name": "i048scghdt",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Hard Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 04:35:49.238209",
+  "name": "i04r5o59fd",
+  "parent": "M - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Soft Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 04:35:49.227201",
+  "name": "i048spki5n",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Shisha"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 04:35:49.227388",
+  "name": "i04rbhierp",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Soft Bar"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer Print Class",
+  "modified": "2025-08-29 04:35:49.227565",
+  "name": "i04s5dgj88",
+  "parent": "B - Printer",
+  "parentfield": "print_classes",
+  "parenttype": "Preparation Printer",
+  "print_class": "Food"
+ }
+]
