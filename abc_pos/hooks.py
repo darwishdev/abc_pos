@@ -24,10 +24,10 @@ fixtures = [
 	{
 		"doctype": "Item",
 	},
-
-	{
-		"doctype": "Item Price",
-	},
+	#
+	# {
+	# 	"doctype": "Item Price",
+	# },
     {
 		"doctype": "Cashier Printer",
 	},

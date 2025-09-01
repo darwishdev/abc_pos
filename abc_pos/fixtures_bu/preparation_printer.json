@@ -1,0 +1,88 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer",
+  "fallback_printer": "M - Printer",
+  "ip_adress": "192.168.100.191",
+  "modified": "2025-08-24 11:14:48.311878",
+  "name": "B - Printer",
+  "port_number": 9100,
+  "print_class": null,
+  "print_classes": [
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Soft Bar"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Hard Bar"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Food"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Shisha"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Hard Bar"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Shisha"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Soft Bar"
+   },
+   {
+    "parent": "B - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Food"
+   }
+  ],
+  "subnet": "192.168.100"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Preparation Printer",
+  "fallback_printer": "B - Printer",
+  "ip_adress": "192.168.100.190",
+  "modified": "2025-08-23 17:08:11.936172",
+  "name": "M - Printer",
+  "port_number": 9100,
+  "print_class": null,
+  "print_classes": [
+   {
+    "parent": "M - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Soft Bar"
+   },
+   {
+    "parent": "M - Printer",
+    "parentfield": "print_classes",
+    "parenttype": "Preparation Printer",
+    "print_class": "Soft Bar"
+   }
+  ],
+  "subnet": "192.168.100."
+ }
+]
